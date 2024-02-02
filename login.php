@@ -6,8 +6,7 @@
 	<title>Login</title>
 </head>
 <body>
-	<form action="verificar_sesion.php" method="GET">
-		
+	<form action="procesar.php" method="GET">
 		<label for="rut">Rut</label><br/>
 		<input type="text" name="rut"/><br/>
 		
